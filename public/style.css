@@ -1,0 +1,67 @@
+body{
+    background-color: #141414;
+    color: #D1D1D1;
+    font-family: "souls";
+    overflow-x: hidden;
+}
+@font-face{
+    font-family: "souls";
+    src: url("/practic/fonts/ReadexPro-VariableFont_HEXP\,wght.ttf") format('woff2');
+}
+span {
+    line-height: 30px;
+    color: #D1D1D1;
+    padding: 3px;
+  }
+.header{
+    position: relative;
+    left: 530px;
+    font-size:20px;
+}
+
+.description img{
+    width: 900px;
+    position: relative;
+    left:550px;
+    top:20px;
+}
+.description h4{
+    position: relative;
+    left: 550px;
+    top:15px;
+}
+.about{
+    font-family: "souls";
+    position: relative;
+    margin-top: 35px;
+    left: 600px;
+    width:800px;
+}
+.about a{
+    color: #D1D1D1;
+    text-decoration: none;
+    border-bottom: 2px solid cyan;
+}
+.continue{
+    position:relative;
+    left:600px;
+    width: 900px;
+}
+.continue a{
+    color: #D1D1D1;
+    text-decoration: none;
+    border-bottom: 2px solid cyan;
+}
+.continue img{
+    position:relative;
+    width:820px;
+    top:20px;
+}
+.continue p{
+    position:relative;
+    top:20px;
+}
+.conclusion span{
+    position: relative;
+    bottom:50px;
+}
